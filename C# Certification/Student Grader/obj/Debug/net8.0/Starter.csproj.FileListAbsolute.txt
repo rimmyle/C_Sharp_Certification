@@ -1,0 +1,14 @@
+C:\Users\Rimmy Le\OneDrive\Desktop\ChallengeProject\Starter\bin\Debug\net8.0\Starter.exe
+C:\Users\Rimmy Le\OneDrive\Desktop\ChallengeProject\Starter\bin\Debug\net8.0\Starter.deps.json
+C:\Users\Rimmy Le\OneDrive\Desktop\ChallengeProject\Starter\bin\Debug\net8.0\Starter.runtimeconfig.json
+C:\Users\Rimmy Le\OneDrive\Desktop\ChallengeProject\Starter\bin\Debug\net8.0\Starter.dll
+C:\Users\Rimmy Le\OneDrive\Desktop\ChallengeProject\Starter\bin\Debug\net8.0\Starter.pdb
+C:\Users\Rimmy Le\OneDrive\Desktop\ChallengeProject\Starter\obj\Debug\net8.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rimmy Le\OneDrive\Desktop\ChallengeProject\Starter\obj\Debug\net8.0\Starter.AssemblyInfoInputs.cache
+C:\Users\Rimmy Le\OneDrive\Desktop\ChallengeProject\Starter\obj\Debug\net8.0\Starter.AssemblyInfo.cs
+C:\Users\Rimmy Le\OneDrive\Desktop\ChallengeProject\Starter\obj\Debug\net8.0\Starter.csproj.CoreCompileInputs.cache
+C:\Users\Rimmy Le\OneDrive\Desktop\ChallengeProject\Starter\obj\Debug\net8.0\Starter.dll
+C:\Users\Rimmy Le\OneDrive\Desktop\ChallengeProject\Starter\obj\Debug\net8.0\refint\Starter.dll
+C:\Users\Rimmy Le\OneDrive\Desktop\ChallengeProject\Starter\obj\Debug\net8.0\Starter.pdb
+C:\Users\Rimmy Le\OneDrive\Desktop\ChallengeProject\Starter\obj\Debug\net8.0\Starter.genruntimeconfig.cache
+C:\Users\Rimmy Le\OneDrive\Desktop\ChallengeProject\Starter\obj\Debug\net8.0\ref\Starter.dll
