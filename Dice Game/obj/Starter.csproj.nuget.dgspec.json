@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rimmy Le\\OneDrive\\Documents\\GitHub\\C_Sharp_Certification\\Contoso Petfriends app\\Starter.csproj": {}
+    "C:\\Users\\Rimmy Le\\OneDrive\\Documents\\GitHub\\C_Sharp_Certification\\Dice Game\\Starter.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rimmy Le\\OneDrive\\Documents\\GitHub\\C_Sharp_Certification\\Contoso Petfriends app\\Starter.csproj": {
+    "C:\\Users\\Rimmy Le\\OneDrive\\Documents\\GitHub\\C_Sharp_Certification\\Dice Game\\Starter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rimmy Le\\OneDrive\\Documents\\GitHub\\C_Sharp_Certification\\Contoso Petfriends app\\Starter.csproj",
+        "projectUniqueName": "C:\\Users\\Rimmy Le\\OneDrive\\Documents\\GitHub\\C_Sharp_Certification\\Dice Game\\Starter.csproj",
         "projectName": "Starter",
-        "projectPath": "C:\\Users\\Rimmy Le\\OneDrive\\Documents\\GitHub\\C_Sharp_Certification\\Contoso Petfriends app\\Starter.csproj",
+        "projectPath": "C:\\Users\\Rimmy Le\\OneDrive\\Documents\\GitHub\\C_Sharp_Certification\\Dice Game\\Starter.csproj",
         "packagesPath": "C:\\Users\\Rimmy Le\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rimmy Le\\OneDrive\\Documents\\GitHub\\C_Sharp_Certification\\Contoso Petfriends app\\obj\\",
+        "outputPath": "C:\\Users\\Rimmy Le\\OneDrive\\Documents\\GitHub\\C_Sharp_Certification\\Dice Game\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rimmy Le\\AppData\\Roaming\\NuGet\\NuGet.Config"
